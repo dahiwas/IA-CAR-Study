@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 160229408}
   - component: {fileID: 160229410}
   - component: {fileID: 160229409}
-  m_Layer: 0
+  m_Layer: 0 # Camada do GameObject, neste caso, é a camada 0
   m_Name: Camera
   m_TagString: Untagged
   m_Icon: {fileID: 0}
