@@ -1,9 +1,10 @@
 # IA-CAR-Study
 ![Dale](https://github.com/dahiwas/IA-CAR-Study/blob/main/Imagens/Intro.png)
 Estudo de redes neurais em um carro de 3 sensores
+
 Baseando-se em: https://github.com/AJTech2002/Self-Driving-Car-Series
 
-![Apresentação](https://github.com/dahiwas/IA-CAR-Study/blob/main/Imagens/APFINAL.pdf)
+Apresentação: https://github.com/dahiwas/IA-CAR-Study/blob/main/Imagens/APFINAL.pdf
 
 # Etapas
 
